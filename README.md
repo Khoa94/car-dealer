@@ -1,0 +1,1 @@
+This project is very messy right now. The book, publisher, student classes are examples I got from the internet.I make sure these classes work with my project. Then I compare these classes with my car and dealer classes to see why my car and dealer classes are not working.
